@@ -1,1 +1,1 @@
-# McCall-Model
+# McCall Model
