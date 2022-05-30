@@ -70,6 +70,15 @@ El software puede funcionar con éxito en el mercado si está de acuerdo con las
  Mejora el uso de los recursos del sistema.
 - **Usabilidad** : \
  El software debe ser fácil de usar. El software difícil es tedioso para trabajar y la dificultad molesta al usuario.
+ 
+## Mediciones `<Marcos>`
+Claves para el éxito de la medición: 
+
+- Los atributos están predeterminados y se debe emplear un método consistente de medición
+- Se debe desarrollar una relación entre el producto y su aplicación
+- Tales medidas no son absolutas \
+
+Las medidas son entonces una calificación para un factor de calidad. Esta calificación debe incluir una función que mapee cada criterio de calidad en el factor de calidad.
 
 ## LINKS
 
