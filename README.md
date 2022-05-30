@@ -9,12 +9,10 @@ El modelo de calidad de software de McCall se introdujo en 1977. Este modelo se 
 - **Los atributos de calidad de nivel inferior o de segundo nivel** que se pueden evaluar de forma subjetiva u objetiva se denominan criterios de calidad. 
   - Estos atributos son atributos internos. Cada factor de calidad tiene muchos atributos de calidad de segundo nivel o criterios de calidad.
 
+## El modelo
+El Modelo de calidad del software de McCall proporciona una buena introducción de alto nivel a las relaciones entre los componentes del modelo. No toca los aspectos cuantitativos del modelo. El modelo proporciona un marco para medir la calidad del software que afecta al usuario y al desarrollo frente a las propiedades del software.
 
-### Ejemplo: 
-El factor de calidad de usabilidad se divide en operatividad, capacitación, comunicatividad, volumen de entrada/salida, tasa de entrada/salida. Este modelo clasifica todos los requisitos de software en 11 factores de calidad de software. Los 11 factores están organizados en tres factores de calidad del producto: 
-- Operación del producto
-- Revisión del producto 
-- Factores de transición del producto.
+Cada vínculo de pilar representa una actividad que ocurre en un producto de software a lo largo de su vida útil. Estos pillers se utilizan para crear una colección de factores de calidad alineados con esas actividades. Un factor de calidad captura los requisitos conductuales y no conductuales.
 
 ## El modelo se basa en tres pilares de productos: `<Edgar>`
 
