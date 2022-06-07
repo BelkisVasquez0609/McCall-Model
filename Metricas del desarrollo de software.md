@@ -8,7 +8,6 @@ Las organizaciones de TI se basan en una variedad de estas metricas para compren
 3. Defectos y seguridad
 4. Experiencia de usuario (UX)
 
-Si bien una organización de TI no necesita tabular todas las métricas de software, debe priorizar y rastrear las que más importan para sus requisitos y objetivos. Escanee estas 23 métricas de desarrollo de software y cree un conjunto de KPI para la calidad del software.
 
 ## Métricas de productividad del desarrollador **`<Yazmin>`** 
 Existen muchas formas de discutir o evaluar la eficiencia del equipo y el trabajo completado. Las métricas de productividad permiten a los gerentes de desarrollo ejecutar mejor los proyectos. Tabule una combinación de estas métricas de software para medir qué tan avanzado está un proyecto, los niveles de productividad del desarrollador, la cantidad de tiempo de desarrollo adicional necesario y más.
