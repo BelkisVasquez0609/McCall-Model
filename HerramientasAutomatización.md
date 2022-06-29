@@ -97,10 +97,17 @@ Release History of Test Studio Automated Testing Software | Telerik. (s. f.). Te
 
 # Testim
 ## Descripción, de qué se trata
+Testim.IO aprovecha el aprendizaje automático para la creación, ejecución y mantenimiento de casos de prueba automatizados. Uso de localizadores dinámicos y aprendizaje con cada ejecución. El resultado es una autoría súper rápida y pruebas estables que aprenden, eliminando así la necesidad de mantener continuamente las pruebas con cada cambio de código. NetApp, Verizon Wireless, Wix.com y otros ejecutan más de 300 000 pruebas por mes con Testim.io.
 
 ## Características o features 
 ###  Criterios de selección:
+
 ###  Capacidad 
+- Admite la ejecución en paralelo
+- Mover y copiar
+- Test basados en los requisitos
+- Test paramitrazados
+- Vericación de scripts de test
 ###  Características 
 ###  Costo y beneficios 
 ###  Plataforma.
