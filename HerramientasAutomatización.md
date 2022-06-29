@@ -82,6 +82,8 @@ Telerik
 https://www.telerik.com/teststudio/live-demos
 ### Link del demo 
 https://www.telerik.com/support/demos
+## Video del demo 
+https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/teststudiorecorder.gif?sfvrsn=596ba0de_2
 ## Fuentes consultadas, internetgrafía o bibliografía
 Wikipedia contributors. (2022, 29 abril). Test Studio. Wikipedia. https://en.wikipedia.org/wiki/Test_Studio
 Web & Desktop Automated Testing Software That Just Works | Test Studio. (s. f.). Telerik.Com. https://www.telerik.com/teststudio
