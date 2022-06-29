@@ -2,8 +2,6 @@
 ## Descripción, de qué se trata
 Progress Telerik Test Studio es una herramienta de automatización de pruebas de software basada en Windows para web y escritorio que admite pruebas funcionales , [1] pruebas de rendimiento de software, pruebas de carga [2] y pruebas de API RESTful [3] desarrolladas por Telerik . [4] La herramienta se envía con un complemento para Visual Studio y una aplicación independiente que usa los mismos repositorios y formatos de archivo. Test Studio es compatible con HTML , AJAX , Silverlight , ASP.NET MVC , JavaScript , WPF, Angular , React , ASP.NET AJAX , ASP.NET Core y Blazor . Cualquier aplicación que se ejecute en .NET 5, .NET Core, .NET 6 o superior se puede automatizar con Test Studio. [5] Test Studio admite pruebas entre navegadores para Internet Explorer , Firefox , Microsoft Edge y Chrome .
 ## Características o features 
-###  Criterios de selección:
-
 ###  Capacidad 
 - Pruebas funcionales
 La herramienta proporciona compatibilidad con la automatización de pruebas [9] para aplicaciones web y de escritorio: Silverlight, WPF, AJAX, HTML, [10] WPF y MVC, llamadas de JavaScript, sincronización dinámica de páginas, comportamientos del lado del cliente, así como compatibilidad con Visual Studio. 2010 y 2012.
@@ -36,6 +34,8 @@ Test Studio admite la prueba de aplicaciones web receptivas para verificar la in
 - Pruebas automatizadas basadas en datos
 - Integración de herramientas de seguimiento de errores
 ###  Costo y beneficios 
+La plataforma está disponible como software local en una de las tres ediciones: Test Studio Load ($ 79 por mes o una tarifa única de $ 999); Test Studio Web and Desktop ($ 169 por mes o una tarifa única de $ 2,499); y Test Studio Ultimate ($ 239 por mes o una tarifa única de $ 3499). También está disponible una prueba gratuita de 30 días de la plataforma.
+
 - **Test Studio Web y escritorio -> 2,499**
   - Pruebas automatizadas para Web y WPF
   - IDE independiente
@@ -54,13 +54,21 @@ Test Studio admite la prueba de aplicaciones web receptivas para verificar la in
 En Test Studio, los pasos de prueba se escriben mediante el lenguaje de expresiones de Power Apps. Las expresiones de prueba pueden estar formadas por las funciones disponibles al compilar la aplicación y expresiones adicionales para admitir las pruebas automatizadas.
 ## Facilidad de uso
 Empresas
-## Extensibilidad y flexibilidad de la arquitectura 
 ## Estabilidad del proveedor
 Estable.
 Liberación estable	
 R1 2022 (v. 2022.1.215) / 15 de febrero de 2022 ; hace 3 meses
 ## Cultura organizacional
+3 empleados en Telerik han revisado Telerik en varias dimensiones de la cultura corporativa, compartiendo sus opiniones entre calificaciones ejecutivas hasta el ritmo en el trabajo. La última revisión fue hace el mes pasado.
+En general, los 3 Telerik empleados dan su liderazgo una C, o Bottom 40% superior de empresas de tamaño similar en los Estado Unidos. Esto incluye los grados específicos del equipo ejecutivo, Director Ejecutivo de la Empresa, y supervisor.
 
+Empleados de Telerik están satisfechos con su remuneración total en Telerik, que incluye una combinación de pago, acciones y participación de capital, y beneficios. En general, 3 Participantes califican su remuneración en Telerik con B+, o en el máximo Top 20% de compañías de tamaño similar en los Estados Unidos.
+
+En general, empleados de Telerik están satisfechos con su equipo. 3 Participantes califican la calidad de sus compañeros de trabajo con B-. La mayoría creen que las reuniones de Telerik son efectivas, y la mayoría esperan que interactuar con sus compañeros de trabajo.
+
+La mayoría de empleados en Telerik creen que el ambiente en Telerik es positivo. La mayoría de los Participantes creen que el ritmo de trabajo en Telerik es extremedamente rápido. Cerca 67% de los empleados en Telerik trabajan 8 horas o menos.
+
+En general, los empleados de Telerik están contentos, basados en su calificaciones agregadas de las perspectivas futuras, la percepción del cliente, y su entusiasmo al ir al trabajo. Los 3 empleados que participaron creen que su vista futura en Telerik es positivo.
 ## Imagen o logo 
 https://upload.wikimedia.org/wikipedia/commons/b/b2/Telerik-test-studio-logo.png
 ## Desarrolladores o autores
@@ -68,17 +76,18 @@ Telerik
 ## Creadores o marcas
 Telerik
 ## Año o fecha de creación o lanzamiento
-
-## Cantidad de usuarios actualmente
-
+1 Mayo 2011 con la versión: Test Studio 2011.1502
 ## Integraciones con otras herramientas
 ## Demo
 https://www.telerik.com/teststudio/live-demos
 ### Link del demo 
-
+https://www.telerik.com/support/demos
 ## Fuentes consultadas, internetgrafía o bibliografía
 Wikipedia contributors. (2022, 29 abril). Test Studio. Wikipedia. https://en.wikipedia.org/wiki/Test_Studio
 Web & Desktop Automated Testing Software That Just Works | Test Studio. (s. f.). Telerik.Com. https://www.telerik.com/teststudio
+Please Wait. . . | Cloudflare. (s. f.). Comparably. https://www.comparably.com/es-MX/companies/telerik
+Release History of Test Studio Automated Testing Software | Telerik. (s. f.). Telerik.Com. https://www.telerik.com/support/whats-new/teststudio/release-history
+
 
 
 
