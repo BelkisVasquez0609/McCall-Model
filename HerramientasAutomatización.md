@@ -53,7 +53,7 @@ La plataforma está disponible como software local en una de las tres ediciones:
 ## Lenguaje de programación
 En Test Studio, los pasos de prueba se escriben mediante el lenguaje de expresiones de Power Apps. Las expresiones de prueba pueden estar formadas por las funciones disponibles al compilar la aplicación y expresiones adicionales para admitir las pruebas automatizadas.
 ## Facilidad de uso
-Empresas
+Alta usabilidad
 ## Estabilidad del proveedor
 Estable.
 Liberación estable	
@@ -84,14 +84,6 @@ https://www.telerik.com/teststudio/live-demos
 https://www.telerik.com/support/demos
 ## Video del demo 
 https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/teststudiorecorder.gif?sfvrsn=596ba0de_2
-## Fuentes consultadas, internetgrafía o bibliografía
-Wikipedia contributors. (2022, 29 abril). Test Studio. Wikipedia. https://en.wikipedia.org/wiki/Test_Studio
-Web & Desktop Automated Testing Software That Just Works | Test Studio. (s. f.). Telerik.Com. https://www.telerik.com/teststudio
-Please Wait. . . | Cloudflare. (s. f.). Comparably. https://www.comparably.com/es-MX/companies/telerik
-Release History of Test Studio Automated Testing Software | Telerik. (s. f.). Telerik.Com. https://www.telerik.com/support/whats-new/teststudio/release-history
-
-
-
 
 
 
@@ -103,27 +95,78 @@ Testim.IO aprovecha el aprendizaje automático para la creación, ejecución y m
 ###  Criterios de selección:
 
 ###  Capacidad 
+
+###  Características 
 - Admite la ejecución en paralelo
 - Mover y copiar
 - Test basados en los requisitos
 - Test paramitrazados
 - Vericación de scripts de test
-###  Características 
 ###  Costo y beneficios 
+- **COMMUNITY -> Gratis **
+    - 1,000 ejecuciones por mes
+    - Ejecuciones de pruebas en serie
+    - Ejecutar pruebas en la nube de Testim
+    - Autoayuda (documentos, recursos)
+    - Límite de una cuenta por organización
+- **ESSENTIALS -> Contacto **
+    - Custom grid runs (up to 50K/mo.)
+    - Run 4+ tests in parallel
+    - Testim's cloud/any Selenium Grid
+    - Live support + CSM
+    - Basic TestOps for management
+    - Security configurations
+- **PROFESSIONAL -> Contacto **
+    - Custom grid runs
+    - Run 8+ tests in parallel
+    - Testim's cloud/any Selenium Grid
+    - Live support + CSM
+    - Advanced TestOps for scaling
+    - Advanced security configurations
+    - Web-accessibility testing
+    - Custom legal terms
 ###  Plataforma.
+Cloud, SaaS, Web
 ## Lenguaje de programación
+JavaScript 
 ## Facilidad de uso
-## Extensibilidad y flexibilidad de la arquitectura 
+Alta usabilidad
 ## Estabilidad del proveedor
+https://help.testim.io/changelog
+Actualizaciones semanales 
 ## Cultura organizacional
 ## Imagen o logo 
+https://www.testim.io/wp-content/uploads/2021/09/image-top@2x-1120x500.png
+https://www.testim.io/wp-content/uploads/2022/02/trusk@2x.jpg
+https://intellyx.com/wp-content/uploads/2021/04/testim-intellyx-BC-logo2020-1200x628-1-300x157.png
 ## Desarrolladores o autores
+Testim
 ## Creadores o marcas
+Testim
 ## Año o fecha de creación o lanzamiento
+Finales del 2014
 ## Cantidad de usuarios actualmente
 ## Beneficios o aportes de usarlas
-## Costo, licenciamiento, es gratuita, versión free, pro, otras.
+- **Ampliar la cobertura de la prueba**
+La creación rápida aumenta la cobertura y la calidad en toda su aplicación.
+- **Reducir el mantenimiento**
+Estabilizadores impulsados ​​por IA que mejoran automáticamente, eliminan las pruebas escamosas que consumen recursos.
+- **Solucionar problemas rápidamente**
+Diagnostique pruebas fallidas, identificando la causa raíz para corregir errores y lanzar más rápido.
+- **Escala de calidad**
+Expanda de manera eficiente las operaciones de prueba con control, administración y conocimientos.
+
 ## Integraciones con otras herramientas
-## Demo
+
+## video Demo
+https://vod-progressive.akamaized.net/exp=1656562627~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F742%2F19%2F478714827%2F2139422220.mp4~hmac=110b7bcb05c4b7cac29a00bd3fc1eca307dd96f304563029f0ae3b727b2db17d/vimeo-prod-skyfire-std-us/01/742/19/478714827/2139422220.mp4?filename=Testim_Explainer.mp4
+
 ## Link del demo 
+[https://app.testim.io/#/project/DyuMpBOYXzP4BjaA7cDo/branch/master/insights/dashboard](https://app.testim.io/#/project/GYXR2qZC/branch/master/insights/dashboard)
+
 ## Fuentes consultadas, internetgrafía o bibliografía
+Wikipedia contributors. (2022, 29 abril). Test Studio. Wikipedia. https://en.wikipedia.org/wiki/Test_Studio
+Web & Desktop Automated Testing Software That Just Works | Test Studio. (s. f.). Telerik.Com. https://www.telerik.com/teststudio
+Please Wait. . . | Cloudflare. (s. f.). Comparably. https://www.comparably.com/es-MX/companies/telerik
+Release History of Test Studio Automated Testing Software | Telerik. (s. f.). Telerik.Com. https://www.telerik.com/support/whats-new/teststudio/release-history
+T. (2021, 4 diciembre). Product. AI-Driven E2E Automation with Code-like Flexibility for Your Most Resilient Tests. https://www.testim.io/test-automation-tool/
