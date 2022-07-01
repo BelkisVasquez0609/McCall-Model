@@ -93,10 +93,6 @@ https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/test
 Testim.IO aprovecha el aprendizaje automático para la creación, ejecución y mantenimiento de casos de prueba automatizados. Uso de localizadores dinámicos y aprendizaje con cada ejecución. El resultado es una autoría súper rápida y pruebas estables que aprenden, eliminando así la necesidad de mantener continuamente las pruebas con cada cambio de código. NetApp, Verizon Wireless, Wix.com y otros ejecutan más de 300 000 pruebas por mes con Testim.io.
 
 ## Características o features 
-###  Criterios de selección:
-
-###  Capacidad 
-
 ###  Características 
 - Admite la ejecución en paralelo
 - Mover y copiar
@@ -129,13 +125,12 @@ Testim.IO aprovecha el aprendizaje automático para la creación, ejecución y m
 ###  Plataforma.
 Cloud, SaaS, Web
 ## Lenguaje de programación
-JavaScript 
+Les da a las organizaciones y los equipos la flexibilidad para construir sus propios contenedores alrededor de la plataforma usando lógica de programación compleja con JavaScript y HTML. De esta forma, cualquiera puede ampliar la funcionalidad de la plataforma.
 ## Facilidad de uso
 Alta usabilidad
 ## Estabilidad del proveedor
 https://help.testim.io/changelog
 Actualizaciones semanales 
-## Cultura organizacional
 ## Imagen o logo 
 https://www.testim.io/wp-content/uploads/2021/09/image-top@2x-1120x500.png
 https://www.testim.io/wp-content/uploads/2022/02/trusk@2x.jpg
@@ -147,6 +142,9 @@ Testim
 ## Año o fecha de creación o lanzamiento
 Finales del 2014
 ## Cantidad de usuarios actualmente
+No contiene una información exacta sobre la cantidad de total de usuarios, pero, si menciona clientes reconocidos como Microsofot, wix, Autodesk, entre otros. 
+Netapp, Verizon Wireless, Wix.com y otros ejecutan más de 300 000 pruebas con Testim.io cada mes.
+
 ## Beneficios o aportes de usarlas
 - **Ampliar la cobertura de la prueba**
 La creación rápida aumenta la cobertura y la calidad en toda su aplicación.
@@ -156,9 +154,14 @@ Estabilizadores impulsados ​​por IA que mejoran automáticamente, eliminan l
 Diagnostique pruebas fallidas, identificando la causa raíz para corregir errores y lanzar más rápido.
 - **Escala de calidad**
 Expanda de manera eficiente las operaciones de prueba con control, administración y conocimientos.
-
 ## Integraciones con otras herramientas
+Esta herramienta se integra con diferentes sistemas CI / CD como Jenkins, Travis CI, Circle CI y otras herramientas de construcción. También se integra con redes de terceros que alojan su propia nube privada para ejecutar pruebas. Todo esto se hace a través de la CLI (Command Line Interface) que proporcionamos en la plataforma.
 
+Al hacer clic en el 'Ajustes' El icono del menú lateral abre la CLI.
+
+Está precargado con los comandos que necesitan para ejecutar las pruebas en sistemas CI / CD, grillas de terceros o sus grillas. Solo tenemos que hacer clic en 'Dupdo' y, literalmente, pegue el comando en cualquier herramienta de compilación o cuadrícula que utilice la organización.
+
+https://myservername.com/img/automation-testing/08/testim-io-tutorial-speed-up-authoring-29.jpg
 ## video Demo
 https://vod-progressive.akamaized.net/exp=1656562627~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F742%2F19%2F478714827%2F2139422220.mp4~hmac=110b7bcb05c4b7cac29a00bd3fc1eca307dd96f304563029f0ae3b727b2db17d/vimeo-prod-skyfire-std-us/01/742/19/478714827/2139422220.mp4?filename=Testim_Explainer.mp4
 
@@ -171,3 +174,5 @@ Web & Desktop Automated Testing Software That Just Works | Test Studio. (s. f.).
 Please Wait. . . | Cloudflare. (s. f.). Comparably. https://www.comparably.com/es-MX/companies/telerik
 Release History of Test Studio Automated Testing Software | Telerik. (s. f.). Telerik.Com. https://www.telerik.com/support/whats-new/teststudio/release-history
 T. (2021, 4 diciembre). Product. AI-Driven E2E Automation with Code-like Flexibility for Your Most Resilient Tests. https://www.testim.io/test-automation-tool/
+Login, Sign in. (s. f.). LinkedIn. https://www.linkedin.com/company/testim-io/about/
+Tutorial de Testim.io: Acelerar la creación y ejecución de pruebas automatizadas. (s. f.). Pruebas De Automatización. https://spa.myservername.com/testim-io-tutorial-speed-up-authoring
