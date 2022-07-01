@@ -78,6 +78,7 @@ Telerik
 ## Año o fecha de creación o lanzamiento
 1 Mayo 2011 con la versión: Test Studio 2011.1502
 ## Integraciones con otras herramientas
+Test Studio se integra con todas las herramientas populares de CI/CD: Azure DevOps, Jenkins, Bamboo, TeamCity y más. 
 ## Demo
 https://www.telerik.com/teststudio/live-demos
 ### Link del demo 
