@@ -71,7 +71,7 @@ La mayoría de empleados en Telerik creen que el ambiente en Telerik es positivo
 En general, los empleados de Telerik están contentos, basados en su calificaciones agregadas de las perspectivas futuras, la percepción del cliente, y su entusiasmo al ir al trabajo. Los 3 empleados que participaron creen que su vista futura en Telerik es positivo.
 ## Imagen o logo 
 https://upload.wikimedia.org/wikipedia/commons/b/b2/Telerik-test-studio-logo.png
-## Desarrolladores o autores **`<Marcos>`**  **`<Erickson>`** 
+## Desarrolladores o autores **`<Erickson>`** 
 Telerik
 ## Creadores o marcas  **`<Erickson>`** 
 Telerik
