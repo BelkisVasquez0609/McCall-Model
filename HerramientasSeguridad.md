@@ -3,7 +3,6 @@
 ## Descripción, de qué se trata
 sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación de fallas de inyección SQL y toma de control de los servidores de bases de datos. Viene con un potente motor de detección, muchas funciones de nicho para el probador de penetración definitivo y una amplia gama de interruptores que van desde la toma de huellas dactilares de la base de datos, la obtención de datos de la base de datos, hasta el acceso al sistema de archivos subyacente y la ejecución de comandos en el sistema operativo a través de la salida. conexiones fuera de banda.
 ## Características o features 
-### Capacidad 
 ### Características 
 - **Soporte completo para** MySQL, Oracle, PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird, Sybase, SAP MaxDB, Informix, MariaDB, MemSQL, TiDB, CockroachDB, HSQLDB, H2, MonetDB, Apache Derby, Amazon Redshift, Vertica, Mckoi, Presto, Altibase, MimerSQL, CrateDB, Greenplum, Drizzle, Apache Ignite, Cubrid, InterSystems Cache, IRIS, eXtremeDB, FrontBase, Raima Database Manager, YugabyteDB y los sistemas de administración de bases de datos Virtuoso.
 - **Soporte completo para seis técnicas** de inyección de SQL: ciego basado en booleanos, ciego basado en tiempo, basado en errores, basado en consultas UNION, consultas apiladas y fuera de banda .
@@ -26,44 +25,84 @@ Para uso de desarrolladores o personas conocedoras de tecnología
 ## Extensibilidad y flexibilidad de la arquitectura 
 Soporte completo para MySQL, Oracle, PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird, Sybase, SAP MaxDB, Informix, MariaDB, MemSQL, TiDB, CockroachDB, HSQLDB, H2, MonetDB, Apache Derby, Amazon Redshift, Vertica, Mckoi, Presto, Altibase, MimerSQL, CrateDB, Greenplum, Drizzle, Apache Ignite, Cubrid, InterSystems Cache, IRIS, eXtremeDB, FrontBase, Raima Database Manager, YugabyteDB y los sistemas de administración de bases de datos Virtuoso.
 ## Estabilidad del proveedor
-
-## Cultura organizacional
+Lanzan versiones cada año
 ## Imagen o logo 
+blob:https://gotexploit.com/fa1b9645-7478-41af-9e01-b86181577374
+
 ## Desarrolladores o autores
 Bernardo Damele A. G. (@bdamele)
 Miroslav Stampar ( @stamparm )
 ## Creadores o marcas
 SQLMAP
 ## Año o fecha de creación o lanzamiento
+25 de julio del 2008
 
-## Cantidad de usuarios actualmente
-## Beneficios o aportes de usarlas
-## Costo, licenciamiento, es gratuita, versión free, pro, otras.
-## Integraciones con otras herramientas
-## Demo
 ## Link del demo 
+https://www.youtube.com/user/inquisb/videos
 
-# 
+
+
+
+
+# Acunetix
+
 ## Descripción, de qué se trata
-## Características o features 
-## Criterios de selección:
-## Capacidad 
-## Características 
+Es un escáner para descubrir vulnerabilidades, permite el uso de múltiples subprocesos para rastrea un sitio web. Esta herramienta rápida y fácil de usar, permite crear macros y grabar acciones sobre la aplicación, no aconsejaría lanzarla sobre un sitio en producción, ya que no tenemos tanto control sobre las acciones que realiza la herramienta.
+
+## Carísticas o features
+Tiene una larga lista de tareas de seguridad de aplicaciones web:
+
+- Encotrar vulnerabilidades
+- Investigando el día cero
+- Confirmando vulnerabilidades
+- Clasificando vulnerabilidades
+- Creacion de tickets para desarrolladores
+- Guiando a los desarrolladores a través de la remediación
+- Corrección de las nuevas pruebas
+- Demuoestrar el cumplimiento
 ## Costo y beneficios 
+A través de una cotización
 ## Plataforma.
-## Lenguaje de programación
+Web
 ## Facilidad de uso
-## Extensibilidad y flexibilidad de la arquitectura 
+Intuitivo
 ## Estabilidad del proveedor
+Estable
 ## Cultura organizacional
+
 ## Imagen o logo 
+https://www.acunetix.com/wp-content/themes/acunetix/img/acx-home-ab.svg
+
 ## Desarrolladores o autores
-## Creadores o marcas
+Invicti Security
+
 ## Año o fecha de creación o lanzamiento
+2005
+
 ## Cantidad de usuarios actualmente
+Más de 2300 empresas de todos los tamaños automatizan
+las pruebas de seguridad de aplicaciones con Acunetix
+
 ## Beneficios o aportes de usarlas
-## Costo, licenciamiento, es gratuita, versión free, pro, otras.
+Detecte más de 7000 vulnerabilidades, incluidas las vulnerabilidades de día cero.
+
+- Encuentre sus fallas de seguridad con el escáner de vulnerabilidades más preciso del mundo
+- Ejecute escaneos rápidos que revelen vulnerabilidades en el instante en que se encuentran
+- Escanee múltiples entornos al mismo tiempo
+- Obtenga una cobertura más completa con el escaneo DAST + IAST combinado
+
 ## Integraciones con otras herramientas
-## Demo
+Acunetix se integra con aplicaciones de terceros, lo que facilita el seguimiento y la protección contra las vulnerabilidades identificadas. Los siguientes rastreadores de problemas y WAF pueden usar los resultados del escaneo de Acunetix, y Acunetix también se puede usar como parte de un entorno de integración continua.
+
+- Azure DevOps (Microsoft TFS)
+- JIRA
+- GitHub
+- GitLab
+- Bugzilla
+- Mantis
+
 ## Link del demo 
+https://www.acunetix.com/web-vulnerability-scanner/demo/
+https://www.acunetix.com/product/
 ## Fuentes consultadas, internetgrafía o bibliografía
+sqlmap: automatic SQL injection and database takeover tool. (s. f.). SQLMAP. https://sqlmap.org/
