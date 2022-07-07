@@ -20,7 +20,7 @@ Gratis, sin embargo, acepta donaciones.
 Es un aplicación de consola
 ## Lenguaje de programación **`<Erickson>`** 
 Python
-## Facilidad de uso **`<Erickson>`** 
+## Facilidad de uso **`<Edgar>`** 
 Para uso de desarrolladores o personas conocedoras de tecnología
 ## Extensibilidad y flexibilidad de la arquitectura **`<Edgar>`** 
 Soporte completo para MySQL, Oracle, PostgreSQL, Microsoft SQL Server, Microsoft Access, IBM DB2, SQLite, Firebird, Sybase, SAP MaxDB, Informix, MariaDB, MemSQL, TiDB, CockroachDB, HSQLDB, H2, MonetDB, Apache Derby, Amazon Redshift, Vertica, Mckoi, Presto, Altibase, MimerSQL, CrateDB, Greenplum, Drizzle, Apache Ignite, Cubrid, InterSystems Cache, IRIS, eXtremeDB, FrontBase, Raima Database Manager, YugabyteDB y los sistemas de administración de bases de datos Virtuoso.
